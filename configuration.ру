@@ -1,0 +1,3 @@
+URL_SERVICE = "https://3e9fac31-5247-4d03-9978-2d21885251fc.serverhub.praktikum-services.ru/"
+CREATE_NEW_ORDER = "/api/v1/orders/"
+RECEIVING_ORDER_BY_ID = "/api/v1/orders/track/"
